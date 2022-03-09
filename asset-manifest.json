@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gitfiilipeneto.github.io/csb-puiu5g/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://gitfiilipeneto.github.io/csb-puiu5g/static/js/main.5caca010.chunk.js",
+    "main.js.map": "https://gitfiilipeneto.github.io/csb-puiu5g/static/js/main.5caca010.chunk.js.map",
+    "runtime-main.js": "https://gitfiilipeneto.github.io/csb-puiu5g/static/js/runtime-main.38a9919a.js",
+    "runtime-main.js.map": "https://gitfiilipeneto.github.io/csb-puiu5g/static/js/runtime-main.38a9919a.js.map",
+    "static/js/2.b9346390.chunk.js": "https://gitfiilipeneto.github.io/csb-puiu5g/static/js/2.b9346390.chunk.js",
+    "static/js/2.b9346390.chunk.js.map": "https://gitfiilipeneto.github.io/csb-puiu5g/static/js/2.b9346390.chunk.js.map",
+    "index.html": "https://gitfiilipeneto.github.io/csb-puiu5g/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://gitfiilipeneto.github.io/csb-puiu5g/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b9346390.chunk.js.LICENSE.txt": "https://gitfiilipeneto.github.io/csb-puiu5g/static/js/2.b9346390.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38a9919a.js",
+    "static/js/2.b9346390.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5caca010.chunk.js"
+  ]
+}
